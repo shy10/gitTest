@@ -25,8 +25,8 @@
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            <state relative-caret-position="92">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -191,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564215409414</updated>
       <workItem from="1564215413892" duration="1186000" />
-      <workItem from="1564216653674" duration="2286000" />
+      <workItem from="1564216653674" duration="2551000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1564215908913</created>
@@ -218,10 +218,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3472000" />
+    <option name="totallyTimeSpent" value="3737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="492" y="16" width="1112" height="788" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -316,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        <state relative-caret-position="92">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
